@@ -21,7 +21,7 @@ Guidelines for bug reports:
 
 1. **Use the GitHub issue search** and check if the issue has already been reported.
 
-2. **Check if the issue has been fixed** - try to reproduce it using the latest `master` or `dev` branch in the repository.
+2. **Check if the issue has been fixed** - try to reproduce it using the latest `main`  branch in the repository.
 
 ## Feature Requests
 
