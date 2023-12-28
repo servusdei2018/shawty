@@ -1,0 +1,8 @@
+services:
+  shawty:
+    build: .
+    env_file: .env
+    # Exposed ports in (HOST:CONTAINER) format
+    ports:
+      - "8080:8080"
+    restart: always

@@ -1,0 +1,7 @@
+Welcome to your Shawty instance.
+
+There are {{.Count}} URLs in the database.
+
+Endpoints:
+    /delete : delete a url by ID (requires auth)
+    /shorten: shorten a url, returns ID (requires auth)
