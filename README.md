@@ -1,6 +1,6 @@
 # shawty
 
-The lightweight sqlite-backed URL shortener in your pocket.
+The lightweight sqlite-backed URL shortener in your pocket. 
 
 ## Installation
 
@@ -48,6 +48,11 @@ Example:
 curl -H "Auth: YourAuthToken" -X POST -d "https://github.com/a-painfully-long-url-you-want-to-shorten" http://localhost:8080/shorten
 mje6TGINd # you may access it at http://localhost:8080/mje6TGINd
 ```
+
+## Buy me a Coffee
+
+<a href="https://www.buymeacoffee.com/nbracy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 144px !important;" ></a>
+
 
 ## License
 ```
